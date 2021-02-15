@@ -1,4 +1,4 @@
-# LogicChallenges
+# LogicChallenges1
 
 Repositório de estudos com desafios de **lógica** já resolvidos.
 
