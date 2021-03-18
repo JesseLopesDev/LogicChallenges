@@ -19,5 +19,5 @@ Cuidado! Alguns idiomas imprimem automaticamente 1e + 006 em vez de 1000000. Por
 **Exemplos de saída**
 
 2 ^ 2 = 4  
-4 ^ 2 = 12  
+4 ^ 2 = 16  
 6 ^ 6 = 36
