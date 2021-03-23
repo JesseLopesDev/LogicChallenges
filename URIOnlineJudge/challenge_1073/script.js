@@ -14,7 +14,7 @@ for (let index = 0; index <= valor; index++) {
 
     if (numeroPar <= valor) {
 
-      if (numeroPar == 4) {
+      if (numeroPar >= 4) {
         console.log(`${numeroPar} ^ ${2} = ${valorCalculado}`);
         continue;
       }
