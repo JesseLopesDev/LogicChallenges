@@ -4,7 +4,7 @@ Leia um valor inteiro **N**. Este valor será a quantidade de valores que serão
 
 **Entrada**
 
-A primeira linha de entrada é um inteiro **N** (**N < 10000**), que indica o número total de casos de teste. Cada caso é um número inteiro **X** (**-10 7 < X <10 7**).
+A primeira linha de entrada é um inteiro **N** (**N < 10000**), que indica o número total de casos de teste. Cada caso é um número inteiro **X** (**-10<sup>7</sup> < X < 10<sup>7</sup>**).
 
 **Resultado**
 
